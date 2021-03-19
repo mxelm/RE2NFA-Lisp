@@ -1,5 +1,4 @@
 ;;;; Messuri_Elettra_847008
-;;;; De Gennaro_Alessio_845031
 ;;:; Fagadau_Ionut_Daniel_845279
 
 
